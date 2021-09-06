@@ -4,5 +4,5 @@ Pequeno exercício prático de HTML/CSS e Responsividade baseado na vídeo aula 
 
 ### Links
 
-URL para o site: https://amodeusr.github.io/EP01/
-Aula: https://youtu.be/bn-DQCifeQQL
+- URL para o site: https://amodeusr.github.io/EP01/
+- Aula: https://youtu.be/bn-DQCifeQQL
