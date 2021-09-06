@@ -2,4 +2,7 @@
 
 Pequeno exercício prático de HTML/CSS e Responsividade baseado na vídeo aula de Kevin Powell *Responsive Design Made Easy* 
 
-Link para a aula: https://youtu.be/bn-DQCifeQQ
+### Links
+
+URL para o site: https://amodeusr.github.io/EP01/
+Aula: https://youtu.be/bn-DQCifeQQL
